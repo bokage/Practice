@@ -1,5 +1,5 @@
 /* 
-Reverses the digits of positive integer values (ex. 1234 -> 4321)
+Homework; reverses the digits of positive integer values (ex. 1234 -> 4321)
 */
 
 
