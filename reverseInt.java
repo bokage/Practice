@@ -1,3 +1,8 @@
+/* 
+Reverses the digits of positive integer values (ex. 1234 -> 4321)
+*/
+
+
 public class reverseInt{
 
 	public static int reverse(int n){
