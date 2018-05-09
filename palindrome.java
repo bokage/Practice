@@ -1,5 +1,5 @@
 /* 
-Reverses a string. 
+Homework; reverses a string. 
 */
 
 
