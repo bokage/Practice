@@ -1,5 +1,5 @@
 /* 
-Homework; reverses a string. 
+Homework; reverses a string (ex. testing -> gnitset).
 */
 
 
