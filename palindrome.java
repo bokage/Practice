@@ -4,7 +4,7 @@ Homework; reverses a string.
 
 
 public class palindrome{
-	public static String reverse(String input){
+	public String reverse(String input){
 		if(input.length()==1){
 			return input;
 		}
